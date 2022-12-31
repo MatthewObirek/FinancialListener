@@ -2,11 +2,16 @@
 These are the systems I use to track my spending, and compare it month over month.
 
 ##Important URL information
+It is necisarry that the google sheet be open to edit for anyone who has the link
 
+Google Sheet ID or GSID
+`https://docs.google.com/spreadsheets/d/"GS_ID"/edit#gid=0` 
+
+Using the Script from this Repo on <a href="https://script.google.com/home">Google Apps Script</a>
+`https://script.google.com/home/projects/"GAS_ID"/edit`
 
 ## IOS shortcut
 here is a blank version of my "Enter Finance" Shortcut I use on my phone and watch
-
 
 
 ## Google Script Listener
