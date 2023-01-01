@@ -9,7 +9,7 @@ It is necisarry that the google sheet be open to edit for anyone who has the lin
 
 ## IOS shortcut
 here is a blank version of my "Enter Expenses" Shortcut I use on my phone and watch:
-
+https://www.icloud.com/shortcuts/6aa5bc7e69d044c59d408e7a9e724768
 
 ## Google Script Listener
 <a href="https://github.com/MatthewObirek/FinancialListener/blob/main/Code.gs">This</a> is a blank version of the google app script I use
