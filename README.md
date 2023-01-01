@@ -7,7 +7,7 @@ It is necisarry that the google sheet be open to edit for anyone who has the lin
 Google Sheet ID or GSID
 `https://docs.google.com/spreadsheets/d/"GS_ID"/edit#gid=0` 
 
-Using the Script from this Repo on <a href="https://script.google.com/home">Google Apps Script</a>
+Using the <a href="https://github.com/MatthewObirek/FinancialListener/blob/main/Code.gs">Script</a> from this Repo on <a href="https://script.google.com/home">Google Apps Script</a>
 `https://script.google.com/home/projects/"GAS_ID"/edit`
 
 ## IOS shortcut
